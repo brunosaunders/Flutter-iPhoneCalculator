@@ -14,6 +14,6 @@ This calculator supports basics operations as:
 
 # Other Functionalities
 - It has an option to switch between negative and positive numbers with the +/- button;
-- It has a button ([%]) to convert a percentage into a number;
+- It has a button (%) to convert a percentage into a number;
 - It also supports the use of decimal points (",");
 - The numbers are displayed following the **Brazilian Association of Technical Standards**;
