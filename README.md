@@ -17,3 +17,5 @@ This calculator supports basics operations as:
 - It has a button (%) to convert a percentage into a number;
 - It also supports the use of decimal points (",");
 - The numbers are displayed following the **Brazilian Association of Technical Standards**;
+
+![Calculator](./mobile-calculator.png)
